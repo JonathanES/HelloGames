@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hello Games</string>
+    <string name="title">Game Info</string>
+    <string name="name"><b>Name: </b></string>
+    <string name="type"><b>Type: </b></string>
+    <string name="Nb"><b>Nb players: </b></string>
+    <string name="year"><b>Year: </b></string>
+    <string name="know">Do you want to know more?</string>
+</resources>
